@@ -12,5 +12,8 @@ public class Github01 {
         System.out.println(x-y);
         System.out.println("done codes version 1");
         String name2="isa";
+
+        // changes added by Smitha
+        testing cloned project
     }
 }
