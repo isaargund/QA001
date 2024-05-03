@@ -6,6 +6,5 @@ public class Github01 {
         System.out.println(x-y);
         System.out.println("done codes version 1");
         String name="şinda";
-        System.out.println(name+" şinda");
     }
 }
