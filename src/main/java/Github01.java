@@ -14,6 +14,6 @@ public class Github01 {
         String name2="isa";
 
         // changes added by Smitha
-        testing cloned project
+        //testing cloned project
     }
 }
