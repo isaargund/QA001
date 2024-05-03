@@ -5,6 +5,12 @@ public class Github01 {
         int y =7;
         System.out.println(x-y);
         System.out.println("done codes version 1");
-        String name="şinda";
+        String name="test";
+
+        int l =5;
+        int m =7;
+        System.out.println(x-y);
+        System.out.println("done codes version 1");
+        String name2="isa";
     }
 }
